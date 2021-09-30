@@ -1,0 +1,37 @@
+.. Using `gwip` on second unnumbered list item will reinterpret its second
+   line (L13) as term, and L14 as this term definition. Same on lines 17-18.
+
+   If that happens, the next numbered lists will behave the same way, and turn
+   to term lists on `gwip`.
+
+There are many variations of passages of Lorem Ipsum available, but the
+majority have suffered alteration in some form, by injected humour, or
+randomised words which don't look even slightly believable.
+
+- There are many variations of passages of lorem ipsum available, but the
+  majority have suffered alteration in some form, by injected humour, or
+  randomised words which don't look even slightly believable.
+
+- There are many variations of passages of lorem ipsum available, but the
+  majority have suffered alteration in some form, by injected humour, or
+  randomised words which don't look even slightly believable.
+
+- There are many variations of passages of lorem ipsum available, but the
+  majority have suffered alteration in some form, by injected humour, or
+  randomised words which don't look even slightly believable.
+
+There are many variations of passages of Lorem Ipsum available, but the
+majority have suffered alteration in some form, by injected humour, or
+randomised words which don't look even slightly believable.
+
+1. There are many variations of passages of Lorem Ipsum available, but the
+   majority have suffered alteration in some form, by injected humour, or
+   randomised words which don't look even slightly believable.
+
+2. There are many variations of Lorem Ipsum available, but the majority have
+   suffered alteration in some form, by injected humour, or randomised words
+   which don't look even slightly believable.
+
+3. There are many variations of passages of Lorem Ipsum available, but the
+   majority have suffered in some form, by injected humour, or randomised
+   words don't look even slightly believable.
